@@ -34,6 +34,8 @@ text = pytesseract.image_to_string(upscaled, lang="jpn_vert")
 print(text)
 
 
+
+
 # while True:
 #     for filename in os.listdir(folder_path):
 #         if filename.endswith(".png"):
